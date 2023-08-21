@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 TU Dublin Computer Science Graduate 2023 (1st class honours) <br>⚡ Currently building www.careersxp.com
+🔭 TU Dublin Computer Science Graduate 2023 (1st class honours) <br>
 
 
 ## 🌐 Socials:
